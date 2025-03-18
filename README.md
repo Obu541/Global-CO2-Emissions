@@ -1,7 +1,8 @@
 # 🌍 Global CO2 Emissions
 This project analyzes **Global CO2 Emissions** to extract valuable insights through visualization.    
 The goal is to identify which regions are the primary contributors to carbon emissions and understand their impact over the last 250 years.  
- 
+
+ <img src="Dasboard image.png" alt="Accommodation Number" width="500">
 
 🚀 **Project Overwiev**  
 This project is part of a guided course from [Maven Analytics](https://www.mavenanalytics.io/).  
@@ -40,7 +41,7 @@ in contrast to **higher levels in Asia, North America, and Europe.**
 **India's** population is increasing faster than its CO2 contribution.    
 **The United States** emits a disproportionately high amount of CO2 compared to its population size.
 
-<img src="im_2.png" alt="Accommodation Number" width="500">
+<img src="im_2.png" alt="Accommodation Number" width="400">
 
 
 ### :bulb: Conclusion 
